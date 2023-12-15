@@ -8,6 +8,7 @@
 6. Notofonts/Nag Mundari [Nag Mundari](https://github.com/notofonts/nag-mundari)
 7. Notofonts/Warang citi [Warang citi](https://github.com/notofonts/warang-citi)
 8. Notofonts/Toto [Toto](https://github.com/notofonts/toto)
+9. Notofonts/Mro [Mro](https://github.com/notofonts/mro)
 
 
 # Download URL of Fonts
@@ -20,3 +21,4 @@
 6. [Nag Mundari](https://github.com/notofonts/nag-mundari/releases/download/NotoSansNagMundari-v1.000/NotoSansNagMundari-v1.000.zip)
 7. [Warang Citi](https://github.com/notofonts/warang-citi/releases/download/NotoSansWarangCiti-v3.002/NotoSansWarangCiti-v3.002.zip)
 8. [Toto](https://github.com/notofonts/toto/releases/download/NotoSerifToto-v2.001/NotoSerifToto-v2.001.zip)
+9. [Mro](https://github.com/notofonts/mro/releases/download/NotoSansMro-v2.001/NotoSansMro-v2.001.zip)
