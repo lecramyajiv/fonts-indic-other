@@ -14,6 +14,7 @@ collection are
 9. Sora Sompeng
 10. Ol Chiki
 11. Takri
+12. Tulu
 
 Gondi is a Dravidian language and is spoken
 in the state of Telangana apart from Eastern
@@ -64,3 +65,10 @@ Tamil historic fractions and symbols
 Tulu is spoken in the Indian state of Karnataka
 and Kerala by about 1,846,427 people according to
 2011 census.
+
+The Ol Chiki script, also known as Ol Chemetʼ 
+(Santhali: ol 'writing', chemetʼ 'learning'), Ol Ciki, Ol, and sometimes as 
+the Santhali alphabet invented by Pandit Raghunath Murmu in the year 1925, 
+is the official writing system for Santhali, an Austroasiatic language recognized as 
+an official regional language in India. 
+It is one of the official scripts of the Indian Republic.
