@@ -45,7 +45,7 @@ and published in late 1980 the alphabetic writing system Mundari Bani,
 which has seen limited but increasing use in literature, 
 education, and computing. 
 
-Warang Citi (also written Varang Kshiti or Barang Kshiti is a writing 
+Warang Citi also written Varang Kshiti or Barang Kshiti is a writing 
 system invented by Lako Bodra for the Ho language spoken in East India. 
 It is used in primary and adult education and in various publications. 
 
