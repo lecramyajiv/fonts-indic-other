@@ -1,7 +1,7 @@
 This is an extra collection of Indic fonts 
 for Slackware Linux.
 
-The languages that are supported by this 
+The scripts that are supported by this 
 collection are 
 
 1. Gondi
