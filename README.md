@@ -15,10 +15,15 @@ collection are
 10. Ol Chiki
 11. Takri
 
-Gondi Script is a Dravidian language and is spoken
+Gondi is a Dravidian language and is spoken
 in the state of Telangana apart from Eastern
 Maharastra, South Eastern Madhya Pradesh and
 Chhattishgarh.
+
+Masaram Gondi is a Unicode block containing characters 
+0from the Masaram Gondi script, which was designed 
+for writing Gondi in 1918 by Munshi Mangal Singh Masaram, 
+a Gond from Balaghat district of Madhya Pradesh, India. 
 
 Dogri is spoken by 2.6 million people in Indian 
 state of Jammu and Kashmir 
