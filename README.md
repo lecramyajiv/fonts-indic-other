@@ -15,6 +15,7 @@ collection are
 10. Ol Chiki
 11. Takri
 12. Tulu
+13. Saurashtra 
 
 Gondi is a Dravidian language and is spoken
 in the state of Telangana apart from Eastern
@@ -72,3 +73,12 @@ the Santhali alphabet invented by Pandit Raghunath Murmu in the year 1925,
 is the official writing system for Santhali, an Austroasiatic language recognized as 
 an official regional language in India. 
 It is one of the official scripts of the Indian Republic.
+
+Saurashtra is an Indo-Aryan language spoken primarily by the Saurashtrians 
+of Southern India who migrated from the Lata region 
+of present-day Gujarat to south of Vindhyas in the Middle Ages.
+Saurashtra, an offshoot of Sauraseni Prakrit,once spoken in the Saurashtra 
+region of Gujarat, is now chiefly spoken in various places of Tamil Nadu 
+and are mostly concentrated in Madurai, Thanjavur and Salem Districts.
+Census of India places the language under Gujarati. Official figures 
+show the number of speakers as 247,702 (2011 census).
