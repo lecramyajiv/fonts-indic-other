@@ -13,7 +13,9 @@
 11. Notofonts/Tamilsupplement [Tamilsupplement](https://github.com/notofonts/NotoSansTamilSupplement)
 12. Notofonts/Takri [Takri](https://github.com/notofonts/takri)
 13. Darage [Darage](https://github.com/PrahladTantry/Darage)
-
+14. Mandara [Mandara](https://www.jaitulunad.com/tulu-lipi-fonts/mandara-1-0-0)
+15. Allige [Allige](https://www.jaitulunad.com/tulu-lipi-fonts/allige-1-4-0)
+16. Baravu [Baravu](https://www.jaitulunad.com/tulu-lipi-fonts/baravu-2-0-0)
 
 # Download URL of Fonts
 
@@ -30,3 +32,6 @@
 11. [Tamilsupplement](https://fonts.google.com/noto/specimen/Noto+Sans+Tamil+Supplement/about)
 12. [Takri](https://github.com/notofonts/takri/releases/download/NotoSansTakri-v2.005/NotoSansTakri-v2.005.zip)
 13. [Darage](https://github.com/PrahladTantry/Darage/archive/10eea81/Darage-10eea81.tar.gz)
+14. [Mandara](https://github.com/OpenTuluFont/mandara/archive/975a7b0/mandara-975a7b0.tar.gz)
+15. [Allige](https://github.com/OpenTuluFont/allige/archive/e04fd10/allige-e04fd10.tar.gz)
+16. [Baravu](https://github.com/deepakpadukone20/Tu-u/archive/5a49662/Baravu-5a49662.tar.gz)

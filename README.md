@@ -60,3 +60,7 @@ India-Bhutan border in Jalpaiguri district, West Bengal
 
 Tamil Supplement is a Unicode block containing 
 Tamil historic fractions and symbols
+
+Tulu is spoken in the Indian state of Karnataka
+and Kerala by about 1,846,427 people according to
+2011 census.
