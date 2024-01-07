@@ -60,9 +60,6 @@ by the tribal Toto people in Totopara, West Bengal along the border with Bhutan.
 It is also spoken in Subhapara, Dhunchipara, and Panchayatpara hillocks on 
 India-Bhutan border in Jalpaiguri district, West Bengal 
 
-Tamil Supplement is a Unicode block containing 
-Tamil historic fractions and symbols
-
 Tulu is spoken in the Indian state of Karnataka
 and Kerala by about 1,846,427 people according to
 2011 census.
