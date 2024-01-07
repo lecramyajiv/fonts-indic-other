@@ -23,7 +23,7 @@ Maharastra, South Eastern Madhya Pradesh and
 Chhattishgarh.
 
 Masaram Gondi is a Unicode block containing characters 
-0from the Masaram Gondi script, which was designed 
+from the Masaram Gondi script, which was designed
 for writing Gondi in 1918 by Munshi Mangal Singh Masaram, 
 a Gond from Balaghat district of Madhya Pradesh, India. 
 
